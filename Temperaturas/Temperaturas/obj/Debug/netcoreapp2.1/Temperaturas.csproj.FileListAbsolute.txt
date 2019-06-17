@@ -1,0 +1,11 @@
+C:\Users\thiag\Desktop\Temperaturas\Temperaturas\bin\Debug\netcoreapp2.1\Temperaturas.deps.json
+C:\Users\thiag\Desktop\Temperaturas\Temperaturas\bin\Debug\netcoreapp2.1\Temperaturas.runtimeconfig.json
+C:\Users\thiag\Desktop\Temperaturas\Temperaturas\bin\Debug\netcoreapp2.1\Temperaturas.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Temperaturas\Temperaturas\bin\Debug\netcoreapp2.1\Temperaturas.dll
+C:\Users\thiag\Desktop\Temperaturas\Temperaturas\bin\Debug\netcoreapp2.1\Temperaturas.pdb
+C:\Users\thiag\Desktop\Temperaturas\Temperaturas\obj\Debug\netcoreapp2.1\Temperaturas.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\Temperaturas\Temperaturas\obj\Debug\netcoreapp2.1\Temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Temperaturas\Temperaturas\obj\Debug\netcoreapp2.1\Temperaturas.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Temperaturas\Temperaturas\obj\Debug\netcoreapp2.1\Temperaturas.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Temperaturas\Temperaturas\obj\Debug\netcoreapp2.1\Temperaturas.dll
+C:\Users\thiag\Desktop\Temperaturas\Temperaturas\obj\Debug\netcoreapp2.1\Temperaturas.pdb

@@ -1,0 +1,11 @@
+C:\Users\thiag\Desktop\Funções\Funções\bin\Debug\netcoreapp2.1\Funções.deps.json
+C:\Users\thiag\Desktop\Funções\Funções\bin\Debug\netcoreapp2.1\Funções.runtimeconfig.json
+C:\Users\thiag\Desktop\Funções\Funções\bin\Debug\netcoreapp2.1\Funções.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Funções\Funções\bin\Debug\netcoreapp2.1\Funções.dll
+C:\Users\thiag\Desktop\Funções\Funções\bin\Debug\netcoreapp2.1\Funções.pdb
+C:\Users\thiag\Desktop\Funções\Funções\obj\Debug\netcoreapp2.1\Funções.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\Funções\Funções\obj\Debug\netcoreapp2.1\Funções.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Funções\Funções\obj\Debug\netcoreapp2.1\Funções.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Funções\Funções\obj\Debug\netcoreapp2.1\Funções.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Funções\Funções\obj\Debug\netcoreapp2.1\Funções.dll
+C:\Users\thiag\Desktop\Funções\Funções\obj\Debug\netcoreapp2.1\Funções.pdb

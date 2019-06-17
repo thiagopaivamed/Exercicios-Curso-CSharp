@@ -1,0 +1,11 @@
+C:\Users\thiag\Desktop\ConversorMetros\ConversorMetros\bin\Debug\netcoreapp2.1\ConversorMetros.deps.json
+C:\Users\thiag\Desktop\ConversorMetros\ConversorMetros\bin\Debug\netcoreapp2.1\ConversorMetros.runtimeconfig.json
+C:\Users\thiag\Desktop\ConversorMetros\ConversorMetros\bin\Debug\netcoreapp2.1\ConversorMetros.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\ConversorMetros\ConversorMetros\bin\Debug\netcoreapp2.1\ConversorMetros.dll
+C:\Users\thiag\Desktop\ConversorMetros\ConversorMetros\bin\Debug\netcoreapp2.1\ConversorMetros.pdb
+C:\Users\thiag\Desktop\ConversorMetros\ConversorMetros\obj\Debug\netcoreapp2.1\ConversorMetros.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\ConversorMetros\ConversorMetros\obj\Debug\netcoreapp2.1\ConversorMetros.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\ConversorMetros\ConversorMetros\obj\Debug\netcoreapp2.1\ConversorMetros.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\ConversorMetros\ConversorMetros\obj\Debug\netcoreapp2.1\ConversorMetros.AssemblyInfo.cs
+C:\Users\thiag\Desktop\ConversorMetros\ConversorMetros\obj\Debug\netcoreapp2.1\ConversorMetros.dll
+C:\Users\thiag\Desktop\ConversorMetros\ConversorMetros\obj\Debug\netcoreapp2.1\ConversorMetros.pdb

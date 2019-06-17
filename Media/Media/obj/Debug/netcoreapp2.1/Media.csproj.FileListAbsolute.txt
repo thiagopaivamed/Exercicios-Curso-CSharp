@@ -1,0 +1,11 @@
+C:\Users\thiag\Desktop\Media\Media\bin\Debug\netcoreapp2.1\Media.deps.json
+C:\Users\thiag\Desktop\Media\Media\bin\Debug\netcoreapp2.1\Media.runtimeconfig.json
+C:\Users\thiag\Desktop\Media\Media\bin\Debug\netcoreapp2.1\Media.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Media\Media\bin\Debug\netcoreapp2.1\Media.dll
+C:\Users\thiag\Desktop\Media\Media\bin\Debug\netcoreapp2.1\Media.pdb
+C:\Users\thiag\Desktop\Media\Media\obj\Debug\netcoreapp2.1\Media.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\Media\Media\obj\Debug\netcoreapp2.1\Media.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Media\Media\obj\Debug\netcoreapp2.1\Media.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Media\Media\obj\Debug\netcoreapp2.1\Media.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Media\Media\obj\Debug\netcoreapp2.1\Media.dll
+C:\Users\thiag\Desktop\Media\Media\obj\Debug\netcoreapp2.1\Media.pdb

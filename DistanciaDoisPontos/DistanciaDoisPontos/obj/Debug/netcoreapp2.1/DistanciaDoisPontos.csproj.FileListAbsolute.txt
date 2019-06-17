@@ -1,0 +1,11 @@
+C:\Users\thiag\Desktop\DistanciaDoisPontos\DistanciaDoisPontos\bin\Debug\netcoreapp2.1\DistanciaDoisPontos.deps.json
+C:\Users\thiag\Desktop\DistanciaDoisPontos\DistanciaDoisPontos\bin\Debug\netcoreapp2.1\DistanciaDoisPontos.runtimeconfig.json
+C:\Users\thiag\Desktop\DistanciaDoisPontos\DistanciaDoisPontos\bin\Debug\netcoreapp2.1\DistanciaDoisPontos.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\DistanciaDoisPontos\DistanciaDoisPontos\bin\Debug\netcoreapp2.1\DistanciaDoisPontos.dll
+C:\Users\thiag\Desktop\DistanciaDoisPontos\DistanciaDoisPontos\bin\Debug\netcoreapp2.1\DistanciaDoisPontos.pdb
+C:\Users\thiag\Desktop\DistanciaDoisPontos\DistanciaDoisPontos\obj\Debug\netcoreapp2.1\DistanciaDoisPontos.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\DistanciaDoisPontos\DistanciaDoisPontos\obj\Debug\netcoreapp2.1\DistanciaDoisPontos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\DistanciaDoisPontos\DistanciaDoisPontos\obj\Debug\netcoreapp2.1\DistanciaDoisPontos.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\DistanciaDoisPontos\DistanciaDoisPontos\obj\Debug\netcoreapp2.1\DistanciaDoisPontos.AssemblyInfo.cs
+C:\Users\thiag\Desktop\DistanciaDoisPontos\DistanciaDoisPontos\obj\Debug\netcoreapp2.1\DistanciaDoisPontos.dll
+C:\Users\thiag\Desktop\DistanciaDoisPontos\DistanciaDoisPontos\obj\Debug\netcoreapp2.1\DistanciaDoisPontos.pdb

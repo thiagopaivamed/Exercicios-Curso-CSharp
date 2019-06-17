@@ -1,0 +1,11 @@
+C:\Users\thiag\Desktop\MultiplicaMatrizes\MultiplicaMatrizes\bin\Debug\netcoreapp2.1\MultiplicaMatrizes.deps.json
+C:\Users\thiag\Desktop\MultiplicaMatrizes\MultiplicaMatrizes\bin\Debug\netcoreapp2.1\MultiplicaMatrizes.runtimeconfig.json
+C:\Users\thiag\Desktop\MultiplicaMatrizes\MultiplicaMatrizes\bin\Debug\netcoreapp2.1\MultiplicaMatrizes.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\MultiplicaMatrizes\MultiplicaMatrizes\bin\Debug\netcoreapp2.1\MultiplicaMatrizes.dll
+C:\Users\thiag\Desktop\MultiplicaMatrizes\MultiplicaMatrizes\bin\Debug\netcoreapp2.1\MultiplicaMatrizes.pdb
+C:\Users\thiag\Desktop\MultiplicaMatrizes\MultiplicaMatrizes\obj\Debug\netcoreapp2.1\MultiplicaMatrizes.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\MultiplicaMatrizes\MultiplicaMatrizes\obj\Debug\netcoreapp2.1\MultiplicaMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\MultiplicaMatrizes\MultiplicaMatrizes\obj\Debug\netcoreapp2.1\MultiplicaMatrizes.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\MultiplicaMatrizes\MultiplicaMatrizes\obj\Debug\netcoreapp2.1\MultiplicaMatrizes.AssemblyInfo.cs
+C:\Users\thiag\Desktop\MultiplicaMatrizes\MultiplicaMatrizes\obj\Debug\netcoreapp2.1\MultiplicaMatrizes.dll
+C:\Users\thiag\Desktop\MultiplicaMatrizes\MultiplicaMatrizes\obj\Debug\netcoreapp2.1\MultiplicaMatrizes.pdb

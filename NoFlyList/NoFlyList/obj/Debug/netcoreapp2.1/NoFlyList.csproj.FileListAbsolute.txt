@@ -1,0 +1,11 @@
+C:\Users\thiag\Desktop\NoFlyList\NoFlyList\bin\Debug\netcoreapp2.1\NoFlyList.deps.json
+C:\Users\thiag\Desktop\NoFlyList\NoFlyList\bin\Debug\netcoreapp2.1\NoFlyList.runtimeconfig.json
+C:\Users\thiag\Desktop\NoFlyList\NoFlyList\bin\Debug\netcoreapp2.1\NoFlyList.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\NoFlyList\NoFlyList\bin\Debug\netcoreapp2.1\NoFlyList.dll
+C:\Users\thiag\Desktop\NoFlyList\NoFlyList\bin\Debug\netcoreapp2.1\NoFlyList.pdb
+C:\Users\thiag\Desktop\NoFlyList\NoFlyList\obj\Debug\netcoreapp2.1\NoFlyList.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\NoFlyList\NoFlyList\obj\Debug\netcoreapp2.1\NoFlyList.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\NoFlyList\NoFlyList\obj\Debug\netcoreapp2.1\NoFlyList.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\NoFlyList\NoFlyList\obj\Debug\netcoreapp2.1\NoFlyList.AssemblyInfo.cs
+C:\Users\thiag\Desktop\NoFlyList\NoFlyList\obj\Debug\netcoreapp2.1\NoFlyList.dll
+C:\Users\thiag\Desktop\NoFlyList\NoFlyList\obj\Debug\netcoreapp2.1\NoFlyList.pdb

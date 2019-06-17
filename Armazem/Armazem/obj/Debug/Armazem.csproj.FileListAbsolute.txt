@@ -1,0 +1,20 @@
+C:\Users\thiag\Desktop\Armazem\Armazem\bin\Debug\Armazem.exe.config
+C:\Users\thiag\Desktop\Armazem\Armazem\bin\Debug\Armazem.exe
+C:\Users\thiag\Desktop\Armazem\Armazem\bin\Debug\Armazem.pdb
+C:\Users\thiag\Desktop\Armazem\Armazem\obj\Debug\Armazem.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\Armazem\Armazem\obj\Debug\Armazem.Form1.resources
+C:\Users\thiag\Desktop\Armazem\Armazem\obj\Debug\Armazem.Properties.Resources.resources
+C:\Users\thiag\Desktop\Armazem\Armazem\obj\Debug\Armazem.csproj.GenerateResource.cache
+C:\Users\thiag\Desktop\Armazem\Armazem\obj\Debug\Armazem.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Armazem\Armazem\obj\Debug\Armazem.exe
+C:\Users\thiag\Desktop\Armazem\Armazem\obj\Debug\Armazem.pdb
+E:\Camtasia Studio\Curso de C#\Aula 35 - Windows Forms\Armazem\Armazem\bin\Debug\Armazem.exe.config
+E:\Camtasia Studio\Curso de C#\Aula 35 - Windows Forms\Armazem\Armazem\bin\Debug\Armazem.exe
+E:\Camtasia Studio\Curso de C#\Aula 35 - Windows Forms\Armazem\Armazem\bin\Debug\Armazem.pdb
+E:\Camtasia Studio\Curso de C#\Aula 35 - Windows Forms\Armazem\Armazem\obj\Debug\Armazem.csprojAssemblyReference.cache
+E:\Camtasia Studio\Curso de C#\Aula 35 - Windows Forms\Armazem\Armazem\obj\Debug\Armazem.Form1.resources
+E:\Camtasia Studio\Curso de C#\Aula 35 - Windows Forms\Armazem\Armazem\obj\Debug\Armazem.Properties.Resources.resources
+E:\Camtasia Studio\Curso de C#\Aula 35 - Windows Forms\Armazem\Armazem\obj\Debug\Armazem.csproj.GenerateResource.cache
+E:\Camtasia Studio\Curso de C#\Aula 35 - Windows Forms\Armazem\Armazem\obj\Debug\Armazem.csproj.CoreCompileInputs.cache
+E:\Camtasia Studio\Curso de C#\Aula 35 - Windows Forms\Armazem\Armazem\obj\Debug\Armazem.exe
+E:\Camtasia Studio\Curso de C#\Aula 35 - Windows Forms\Armazem\Armazem\obj\Debug\Armazem.pdb

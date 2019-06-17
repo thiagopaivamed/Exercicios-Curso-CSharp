@@ -1,0 +1,11 @@
+C:\Users\thiag\Desktop\Fatorial\Fatorial\bin\Debug\netcoreapp2.1\Fatorial.deps.json
+C:\Users\thiag\Desktop\Fatorial\Fatorial\bin\Debug\netcoreapp2.1\Fatorial.runtimeconfig.json
+C:\Users\thiag\Desktop\Fatorial\Fatorial\bin\Debug\netcoreapp2.1\Fatorial.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Fatorial\Fatorial\bin\Debug\netcoreapp2.1\Fatorial.dll
+C:\Users\thiag\Desktop\Fatorial\Fatorial\bin\Debug\netcoreapp2.1\Fatorial.pdb
+C:\Users\thiag\Desktop\Fatorial\Fatorial\obj\Debug\netcoreapp2.1\Fatorial.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\Fatorial\Fatorial\obj\Debug\netcoreapp2.1\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Fatorial\Fatorial\obj\Debug\netcoreapp2.1\Fatorial.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Fatorial\Fatorial\obj\Debug\netcoreapp2.1\Fatorial.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Fatorial\Fatorial\obj\Debug\netcoreapp2.1\Fatorial.dll
+C:\Users\thiag\Desktop\Fatorial\Fatorial\obj\Debug\netcoreapp2.1\Fatorial.pdb

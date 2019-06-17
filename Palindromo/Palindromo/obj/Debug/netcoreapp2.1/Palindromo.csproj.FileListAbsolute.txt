@@ -1,0 +1,11 @@
+C:\Users\thiag\Desktop\Palindromo\Palindromo\bin\Debug\netcoreapp2.1\Palindromo.deps.json
+C:\Users\thiag\Desktop\Palindromo\Palindromo\bin\Debug\netcoreapp2.1\Palindromo.runtimeconfig.json
+C:\Users\thiag\Desktop\Palindromo\Palindromo\bin\Debug\netcoreapp2.1\Palindromo.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Palindromo\Palindromo\bin\Debug\netcoreapp2.1\Palindromo.dll
+C:\Users\thiag\Desktop\Palindromo\Palindromo\bin\Debug\netcoreapp2.1\Palindromo.pdb
+C:\Users\thiag\Desktop\Palindromo\Palindromo\obj\Debug\netcoreapp2.1\Palindromo.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\Palindromo\Palindromo\obj\Debug\netcoreapp2.1\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Palindromo\Palindromo\obj\Debug\netcoreapp2.1\Palindromo.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Palindromo\Palindromo\obj\Debug\netcoreapp2.1\Palindromo.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Palindromo\Palindromo\obj\Debug\netcoreapp2.1\Palindromo.dll
+C:\Users\thiag\Desktop\Palindromo\Palindromo\obj\Debug\netcoreapp2.1\Palindromo.pdb

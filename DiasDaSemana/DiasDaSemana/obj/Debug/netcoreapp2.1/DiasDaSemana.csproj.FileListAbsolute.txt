@@ -1,0 +1,11 @@
+C:\Users\thiag\Desktop\DiasDaSemana\DiasDaSemana\bin\Debug\netcoreapp2.1\DiasDaSemana.deps.json
+C:\Users\thiag\Desktop\DiasDaSemana\DiasDaSemana\bin\Debug\netcoreapp2.1\DiasDaSemana.runtimeconfig.json
+C:\Users\thiag\Desktop\DiasDaSemana\DiasDaSemana\bin\Debug\netcoreapp2.1\DiasDaSemana.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\DiasDaSemana\DiasDaSemana\bin\Debug\netcoreapp2.1\DiasDaSemana.dll
+C:\Users\thiag\Desktop\DiasDaSemana\DiasDaSemana\bin\Debug\netcoreapp2.1\DiasDaSemana.pdb
+C:\Users\thiag\Desktop\DiasDaSemana\DiasDaSemana\obj\Debug\netcoreapp2.1\DiasDaSemana.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\DiasDaSemana\DiasDaSemana\obj\Debug\netcoreapp2.1\DiasDaSemana.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\DiasDaSemana\DiasDaSemana\obj\Debug\netcoreapp2.1\DiasDaSemana.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\DiasDaSemana\DiasDaSemana\obj\Debug\netcoreapp2.1\DiasDaSemana.AssemblyInfo.cs
+C:\Users\thiag\Desktop\DiasDaSemana\DiasDaSemana\obj\Debug\netcoreapp2.1\DiasDaSemana.dll
+C:\Users\thiag\Desktop\DiasDaSemana\DiasDaSemana\obj\Debug\netcoreapp2.1\DiasDaSemana.pdb
